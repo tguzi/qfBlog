@@ -1,3 +1,3 @@
 # My Study Note
 
-## Some interesting code.
+## Some interesting code
