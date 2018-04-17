@@ -1,3 +1,3 @@
 # My Study Note
 
-## 一些自己平时无聊做的或者在网上看到别人做的有趣的东西
+## Some interesting code.
