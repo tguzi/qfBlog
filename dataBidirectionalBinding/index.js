@@ -18,7 +18,7 @@ myVue.prototype._init = function (options) {
   this.$el = document.querySelector(options.el);
   this.$data = options.data;
   this.$methods = options.methods;
-  // _binding保存着model和view的映射关系，也是前面定义的Watcher的实例
+  // _binding保存着model和view的映射关系
   // 当model改变的时候，触发期中的指令类更新，保证view也能实时更新
   this._binding = {};
   // 观察data对象的变化
